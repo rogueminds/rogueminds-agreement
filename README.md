@@ -28,6 +28,8 @@
 ## Revisions
 
 > [2014-11-07][2] – `b40a76187c2943cfb9960e161f09477e0ab43bc839e44fc0d47380972be555c8`  
+> [2015-04-16][3] – `d44b962b362f21c5793a96ba4face1407a69c6828176b33c7f116ac1261b3978`  
 
 [1]: https://keybase.io/docs/command_line/installation
 [2]: 2014-11-07
+[3]: 2014-04-16
