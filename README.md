@@ -32,4 +32,4 @@
 
 [1]: https://keybase.io/docs/command_line/installation
 [2]: 2014-11-07
-[3]: 2014-04-16
+[3]: 2015-04-16
