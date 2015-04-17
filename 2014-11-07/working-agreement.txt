@@ -1,0 +1,43 @@
+﻿This document shall serve as the Working Agreement between Alexander Raventos and Rodolfo Puig (henceforth known as “The Team”).
+
+
+1. Working Arrangement
+1.1. The Team shall work together on business ventures in accordance with the terms of this document.
+1.2. Members of The Team shall each have a single vote on all decisions.
+1.3. Members of The Team shall each have an equal share in all profits from any projects produced by The Team.
+1.4. Members of The Team shall each have an equal financial obligation towards all expenditures considered relevant and necessary for projects being produced by The Team.
+1.5. A member of The Team may at any time choose to depart from The Team.
+1.5.1. Prior to doing so, the Team member must make any completed work available to the remaining members of The Team.
+1.5.2. Upon departing, the departing Team member is no longer obligated to perform any work for The Team on any projects.
+1.5.3. The departing member is entitled to his share of any profits accumulated up to and including the official date of his departure.
+1.5.4. Unless agreed upon by unanimous vote as described in 2.1, the departing member shall not be entitled to any future profits made by The Team.
+1.6. A member of The Team may be compelled to depart from The Team in the event of irreconcilable dispute.
+1.6.1. A movement to eject shall be proposed by supermajority vote in accordance with 2.2.
+1.6.2. The reasons for the movement to eject shall be provided, in detail to the individual under scrutiny.
+1.6.3. A cooling-off period of no less than 14 days shall pass after a movement to eject is approved by supermajority vote, during which all rights and responsibilities described by this working agreement still apply.
+1.6.4. A vote shall be held after the cooling-off period, after which the decision will be final. The vote must once again secure a supermajority; however, the action must be ratified with a document signed and checksummed by the supermajority voters in accordance with 2.1.1.
+
+
+2. Voting
+2.1. Unless otherwise specified, all decisions that void any part of this agreement, be they temporary or permanent, shall be decided by unanimous vote by The Team and accompanied by a written agreement signed digitally by each member of The Team.
+2.1.1. The agreement signature shall be a PGP signed message containing the member’s full name, date and time of creation, and SHA-256 hash of the plain-text form of this document; each in its own line.
+2.2. Unless otherwise specified, all other decisions, including, but not limited to, project selection, infrastructure, software architecture, meetings, and expenditures, shall be decided by supermajority vote.
+        2.2.1. A supermajority vote shall be defined as a vote of 2.
+2.2.2. Such votes do not require a written agreement as described in 2.1. Corroboration by all members of The Team via e-mail, chat, or first-hand verbal discussion will suffice.
+2.2.3. In the event of a vote that is not unanimous, the dissenting member of The Team may order a re-vote that shall occur no sooner than 24 hours later, during which time the dissenting member of The Team may present his case. If supermajority is not achieved once again when re-voting, the previous decision shall be considered null and void.
+
+
+3. Intellectual Property
+3.1. A project idea is considered the intellectual property of The Team once it has been presented to all other members of The Team and released to The Team by the person proposing it.
+3.1.1. The idea is considered released once the person proposing it states as such either verbally with all Team Members present or electronically with all members of The Team as recipients.
+3.1.2. No member of The Team shall independently produce, for profit or otherwise, any idea that is the intellectual property of the team, nor share such an idea beyond the team to achieve the same.
+3.1.3. Any profits produced by production of the intellectual property of The Team, or any derivative thereof, shall be equally shared by all members of The Team.
+3.2. Ideas not released to The Team and produced independently by one or more members of The Team shall not be bound by 3.1.
+3.3. The Team’s intellectual property may be relinquished in accordance with 2.1.
+
+
+4. Expenditures
+4.1. All expenditures that shall be paid with the personal assets of members of The Team must be deemed relevant and necessary by supermajority vote as described in 2.1.
+4.2. Any member of The Team who is unable or unwilling to contribute his share of an expenditure that has been deemed relevant and necessary shall have the amount deducted from his share of any future profits until the amount is covered.
+5. Amendments
+5.1. This document may be amended by unanimous vote in accordance with 2.1.
